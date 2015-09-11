@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Quiz2WithAndroidAppStudio</string>
+
+    <string name="hello_world">How about a Quiz?</string>
+    <string name="action_settings">Settings</string>
+</resources>
